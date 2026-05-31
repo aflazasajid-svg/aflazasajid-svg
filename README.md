@@ -63,7 +63,7 @@
   <img src="https://user-images.githubusercontent.com/6661165/93725426-2c289e80-fbea-11ea-96a4-f6490ccf2126.png" height="150" alt="trophy graph"  />
 </div>
 <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg"/>
-</div>## Hi there 👋
+</div>
 
 <!--
 **aflazasajid-svg/aflazasajid-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
