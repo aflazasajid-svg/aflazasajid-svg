@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aflaza Sajid</h1>
-<h3 align="center">A passionate Developer from Pakistan </h3>
+<h3 align="center">A passionate Developer from Pakistan</h3>
 
 <img align="right" width="400px" src="https://img.freepik.com/premium-photo/programmer-woman-coding-computer-coder-girl_1168123-42920.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hafsa-nadim&label=Profile%20views&color=0e75b6&style=flat" alt="hafsa-nadim" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aflazasajid-svg&label=Profile%20views&color=0e75b6&style=flat" alt="aflazasajid.svg"/> </p>
 
 - 🔭 I’m currently working on HTML, CSS and JAVASCRIPT projects.
 
@@ -12,9 +12,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aflazasajid-svg](https://github.com/aflazasajid-svg)
 
+- 💬 Ask me about HTML,CSS and JAVASCRIPT.
+
 - 📫 How to reach me **aflazasajid@gmail.com**
 
-- ⚡ Fun fact I'm good at debugging and cloning websites design
+- ⚡ Fun fact I'm good at debugging and cloning websites design.
 
 <h3 align="left">Connect with me:</h3>
 <div align="center">
@@ -22,7 +24,6 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Github logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
